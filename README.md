@@ -45,16 +45,14 @@ I design and build **AI platforms that engineering and data science teams can op
 <h2 align="center">🚀 Languages · Platforms · Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,python,bash,linux,git,githubactions,jenkins,prometheus,grafana,postgres,redis,nginx,helm,pytorch,tensorflow&perline=10" alt="Cloud, Kubernetes, automation, programming and observability tools" />
+<img src="./assets/resume-technology-stack.svg" alt="AWS, EKS, EC2, S3, VPC, Docker, Kubernetes, Helm, Karpenter, Databricks, SageMaker, Bedrock, MLflow, KServe, Kubeflow, Airflow, PyTorch, TensorFlow, Ray, Triton, vLLM POC, Unity Catalog, Delta Lake, Databricks Jobs, Model Serving, Genie, PostgreSQL, RDS, Terraform, Pulumi, CloudFormation, Ansible, Crossplane, Argo CD, GitHub Actions, Jenkins, Prometheus, Grafana, OpenTelemetry, CloudWatch, Splunk, IAM, RBAC, Kong, NGINX, ALB, NLB, Python, Bash, SQL, YAML and Linux" width="100%" />
 </p>
 
-**AI & MLOps**
+**AI platform practices:** GenAI agents, RAG, experiment tracking, model registry, training, evaluation, deployment, monitoring, and CPU/GPU workload scheduling.
 
-![AI and MLOps tools](./assets/ai-mlops-badges.svg)
+**Automation & governance:** Infrastructure as Code, Configuration as Code, GitOps, CI/CD, service principals, secrets management, environment isolation, and CDC.
 
-**Infrastructure & delivery**
-
-![Infrastructure and delivery tools](./assets/infrastructure-delivery-badges.svg)
+**Professional development:** Hugging Face and Gemini for DevOps. **vLLM experience is at POC level.**
 
 ---
 
