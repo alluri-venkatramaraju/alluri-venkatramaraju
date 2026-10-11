@@ -50,22 +50,11 @@ I design and build **AI platforms that engineering and data science teams can op
 
 **AI & MLOps**
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge)
-![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![KServe](https://img.shields.io/badge/KServe-326CE5?style=for-the-badge)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![AI and MLOps tools](./assets/ai-mlops-badges.svg)
 
 **Infrastructure & delivery**
 
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge)
-![Crossplane](https://img.shields.io/badge/Crossplane-EF7B4D?style=for-the-badge)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitOps](https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=git&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Infrastructure and delivery tools](./assets/infrastructure-delivery-badges.svg)
 
 ---
 
@@ -90,12 +79,7 @@ I design and build **AI platforms that engineering and data science teams can op
 
 <h2 align="center">🎓 Certifications</h2>
 
-![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Professional-FF9900?style=for-the-badge)
-![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS%20DevOps%20Engineer%20Professional-FF9900?style=for-the-badge)
-![CKA](https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CKAD](https://img.shields.io/badge/CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![KCNA](https://img.shields.io/badge/KCNA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Argo CD Fundamentals](https://img.shields.io/badge/Argo%20CD%20Fundamentals-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Certifications](./assets/certifications-badges.svg)
 
 Additional professional development includes **Kong Gateway Foundations**, **MLOps with Databricks**, **MLflow and Hugging Face**, and **AI agent governance**.
 
