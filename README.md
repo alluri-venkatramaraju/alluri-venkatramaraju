@@ -1,132 +1,139 @@
-<div align="center">
+<a id="top"></a>
+<h1 align="center">Hi! I'm Venkat Rama Raju Alluri</h1>
+<h3 align="center">AI Infrastructure Solution Architect | MLOps | Cloud Platform Engineering</h3>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=alluri-venkatramaraju&label=Profile+Views&color=0e75b6&style=flat)
+<p align="center">
+<a href="https://www.linkedin.com/in/venkatramarajualluri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@allurivenkatramaraju"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://www.youtube.com/@allurivenkatramaraju"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://github.com/alluri-venkatramaraju"><img src="https://img.shields.io/github/followers/alluri-venkatramaraju?label=Follow&style=social" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=alluri-venkatramaraju&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
+<p align="center"><img src="./assets/venkat-platform-hero.svg" alt="Venkat Alluri — AI infrastructure, cloud platforms and MLOps" width="100%" /></p>
 
-# Hi, I'm Venkat Rama Raju, Alluri
+<h2 align="center">👨‍💻 About Me</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Staff+MLOps+Engineer+%7C+15+Years+Experience;Cloud+Native+%7C+ML+Infrastructure+Expert;Building+Scalable+ML+Pipelines+at+Scale;DevOps+%7C+DataOps+%7C+MLOps+Practitioner)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Infrastructure+Solution+Architect;15%2B+Years+in+Platform+Engineering;AWS+%7C+Databricks+%7C+Kubernetes;GPU+Infrastructure+%26+MLOps;Terraform+%7C+Pulumi+%7C+Ansible;GitOps+%26+Production+Observability" alt="AI infrastructure and platform engineering roles" />
+</p>
 
-</div>
+I design and build **AI platforms that engineering and data science teams can operate in production**. My work connects cloud infrastructure, model lifecycle management, secure deployment, and reliable operations.
 
----
+- 🏗️ **Current role:** AI Infrastructure Solution Architect at **Tiger Analytics**.
+- ☁️ **AI platforms:** Databricks, AWS SageMaker, and AWS Bedrock — from platform foundations to governed deployment.
+- ☸️ **Kubernetes:** Amazon EKS, shared CPU/GPU clusters, workload scheduling, model serving, and multi-region resilience.
+- 🤖 **MLOps:** MLflow, KServe, Kubeflow, and Airflow for experimentation, orchestration, and inference.
+- ⚙️ **Automation:** Terraform, Pulumi, CloudFormation, Ansible, Crossplane, and reusable Python platform services.
+- 🔄 **Delivery:** Argo CD, Helm, GitHub Actions, Jenkins, and GitOps promotion workflows.
+- 📊 **Operations:** OpenTelemetry, Prometheus, Grafana, CloudWatch, and Splunk.
+- 🐧 **Linux:** Extensive administration and production operations across DevOps and MLOps environments.
+- ✍️ **Writing:** Sharing practical cloud, DevOps, and MLOps experience on [Medium](https://medium.com/@allurivenkatramaraju).
+- 🔬 **Exploring:** vLLM through proof-of-concept work and distributed inference patterns.
 
-## About Me
+<p align="center"><img src="./assets/venkat-readme.svg" alt="Venkat's profile as a YAML configuration" width="100%" /></p>
 
-I'm a **Staff MLOps Engineer** with **15+ years** of experience designing, building, and scaling ML infrastructure and data pipelines in cloud-native environments. I'm passionate about bridging the gap between Data Science and Production Engineering—making ML systems reliable, observable, and blazing fast.
-
-- ✍️ Writing about MLOps, Cloud, and DevOps on [Medium](https://medium.com/@allurivenkatramaraju)
-- 🌐 Sharing tech content on YouTube and Instagram
-- ☁️ AWS Cloud Native | Kubernetes Wizard | ML Pipeline Architect
-- 🔭 Currently deep-diving into: **Crossplane**, **Ray**, and **Distributed ML**
-- 💡 Fun fact: I automate everything—even my coffee brewing schedule
-- 🎯 Motto: *"Shift left, observe everything, fail fast, recover faster."*
-
----
-
-## Tech Stack
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Crossplane](https://img.shields.io/badge/Crossplane-%23EF7B4D.svg?style=for-the-badge&logo=crossplane&logoColor=white)
-
-### ⚙️ CI/CD & DevOps
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 🤖 ML & Data
-![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-%23028CF0.svg?style=for-the-badge&logo=ray&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### 📊 Observability & Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?style=for-the-badge&logo=opentelemetry&logoColor=black)
-![Elastic Stack](https://img.shields.io/badge/-ElasticStack-005571?style=for-the-badge&logo=elastic-stack)
-![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![AppDynamics](https://img.shields.io/badge/AppDynamics-%2300A1DE.svg?style=for-the-badge&logo=appdynamics&logoColor=white)
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<p align="center">
+<a href="https://www.linkedin.com/in/venkatramarajualluri/">LinkedIn</a> ·
+<a href="https://medium.com/@allurivenkatramaraju">Medium</a> ·
+<a href="https://www.youtube.com/@allurivenkatramaraju">YouTube</a> ·
+<a href="https://www.instagram.com/allurivenkatramaraju/">Instagram</a>
+</p>
 
 ---
 
-## 📣 Connect & Follow
+<h2 align="center">🚀 Languages · Platforms · Tools</h2>
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,python,bash,linux,git,githubactions,jenkins,prometheus,grafana,postgres,redis,nginx,helm,pytorch,tensorflow&perline=10" alt="Cloud, Kubernetes, automation, programming and observability tools" />
+</p>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@allurivenkatramaraju)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@allurivenkatramaraju)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/allurivenkatramaraju)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatramarajualluri/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alluri-venkatramaraju)
+**AI & MLOps**
 
-</div>
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge)
+![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![KServe](https://img.shields.io/badge/KServe-326CE5?style=for-the-badge)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
----
+**Infrastructure & delivery**
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alluri-venkatramaraju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alluri-venkatramaraju&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluri-venkatramaraju&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alluri-venkatramaraju&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge)
+![Crossplane](https://img.shields.io/badge/Crossplane-EF7B4D?style=for-the-badge)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=git&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 ---
 
-## 📈 Activity Graph
+<h2 align="center">🛠️ Featured Repositories</h2>
 
-<div align="center">
+| ☁️ AI Platform on AWS EKS | 🔄 GitOps Learning |
+| --- | --- |
+| [**aws-eks-ai-platform →**](https://github.com/alluri-venkatramaraju/aws-eks-ai-platform) | [**cgoa-exam-prep →**](https://github.com/alluri-venkatramaraju/cgoa-exam-prep) |
+| Implementation-oriented reference architecture for secure, observable inference and batch training. Terraform, Argo CD, Karpenter, EKS Pod Identity, CPU/GPU examples, and operational documentation. | GitOps concepts, reconciliation patterns, Argo CD exercises, Kubernetes manifests, and mock exams for Certified GitOps Associate preparation. |
+| **AWS · EKS · Terraform · GitOps · Observability** | **GitOps · Argo CD · Kubernetes · Hands-on labs** |
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alluri-venkatramaraju&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Workshops and learning repositories**
 
-</div>
+| Repository | Focus |
+| --- | --- |
+| [APIOps Lab](https://github.com/alluri-venkatramaraju/apiops-lab) | Kong workshop template for OpenAPI-driven configuration, decK validation, and API delivery workflows. |
+| [GitOps Certification Examples](https://github.com/alluri-venkatramaraju/gitops-certification-examples) | Codefresh workshop examples for Argo CD and GitOps learning. |
 
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always open to discussing **MLOps**, **Cloud Architecture**, **ML Infrastructure**, and **DevOps best practices**.
-
-📧 Reach me at: [LinkedIn](https://www.linkedin.com/in/venkatramarajualluri/) | [Medium](https://medium.com/@allurivenkatramaraju)
-
-⭐ If you find my work helpful, consider **starring** my repositories!
+[**Explore all public repositories →**](https://github.com/alluri-venkatramaraju?tab=repositories)
 
 ---
 
-*"The best MLOps is invisible—it just works."*
+<h2 align="center">🎓 Certifications</h2>
 
-</div>
+![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Professional-FF9900?style=for-the-badge)
+![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS%20DevOps%20Engineer%20Professional-FF9900?style=for-the-badge)
+![CKA](https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKAD](https://img.shields.io/badge/CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![KCNA](https://img.shields.io/badge/KCNA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Argo CD Fundamentals](https://img.shields.io/badge/Argo%20CD%20Fundamentals-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+Additional professional development includes **Kong Gateway Foundations**, **MLOps with Databricks**, **MLflow and Hugging Face**, and **AI agent governance**.
+
+---
+
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alluri-venkatramaraju&show_icons=true&theme=algolia&hide_border=true" alt="Venkat's public GitHub statistics" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluri-venkatramaraju&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Languages across public repositories" width="49%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alluri-venkatramaraju&theme=algolia" alt="Public GitHub contribution overview" width="100%" />
+</p>
+
+<details>
+<summary>📈 More GitHub activity</summary>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alluri-venkatramaraju&theme=algolia" alt="Repositories per language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alluri-venkatramaraju&theme=algolia" alt="Commits per language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alluri-venkatramaraju&theme=algolia&utcOffset=-4" alt="Commit activity by hour in UTC minus four" width="32%" />
+</p>
+
+</details>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">Interested in <b>AI infrastructure, MLOps, GPU platforms, Databricks, AWS, or Kubernetes?</b><br/>Let's discuss architecture, production operations, and practical platform engineering.</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/venkatramarajualluri/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://medium.com/@allurivenkatramaraju"><img src="https://img.shields.io/badge/Read_my_articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read articles on Medium" /></a>
+</p>
+
+<p align="center"><i>Build repeatable platforms. Make production observable. Give teams room to ship.</i></p>
+
+<p align="right"><a href="#top">Back to top ↑</a></p>
